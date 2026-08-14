@@ -2,6 +2,8 @@
 
 > 홍익대학교 자율주행차 동아리 Stier  
 > 자율주행 모빌리티 경진대회에 출전한 ROS 소프트웨어
+>
+> 이 저장소는 [Team-Stier/JEJU-ROS-autonomous-vehicle](https://github.com/Team-Stier/JEJU-ROS-autonomous-vehicle)를 기반으로 한 **suhyeon01004-hongik**의 개인 작업용 Fork입니다.
 
 
 |![제주도 대회 혁신상](/assets/제주도대회%20상장(드래그함).png)|![제주도 대회 장려상](/assets/제주도대회%20상장(드래그함)%202.png)|
